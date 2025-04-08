@@ -1,3 +1,58 @@
-baseURL = 'https://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+baseURL = "https://www.gillesmaire.com"
+languageCode = "fr-FR"
+title = "Gilles Maire Dev + teaching"
+theme = "resume"
+PygmentsCodeFences = true
+PygmentsCodeFencesGuessSyntax = true
+PygmentsStyle = "monokai"
+enableGitInfo = false
+
+[params]
+address = "Paris, France"
+email = "gilles@gillesmaire.com"
+favicon = "/favicon.ico"
+firstName = "Gilles"
+lastName = "Maire"
+phone = "+607-990-655"
+profileImage = "img/GillesMaire.png"
+showQr = true
+showContact = true
+showBoards  = true
+showCertifications = true
+showSocializations = true
+sections = ["skills","publications","creations","contributions","experience","education","blog"]
+
+
+[params.google]
+
+[params.google.analytics]
+trackerID = "XX-123446-01"
+
+[[params.handles]]
+    name = "LinkedIn"
+    link = "https://www.linkedin.com/in/edwardwebb/"
+
+[[params.handles]]
+    name = "GitHub"
+    link = "https://github.com/eddiewebb/"
+
+[[params.handles]]
+    name = "Keybase"
+    link = "https://keybase.io/edwardawebb"
+    icon = "keybase"
+    
+[[params.handles]]
+    name = "Bluesky"
+    link = "https://bsky.app/profile/webbinaro.dev"
+    icon = "bluesky"
+
+[[params.handles]]
+    link = "https://stackoverflow.com/users/82880/eddie"
+    name = "Stack Overflow"
+    icon = "stack-overflow"
+
+[outputs]
+home = ["HTML", "JSON"]
+
+[taxonomies]
+tag = "tags"
