@@ -1,32 +1,30 @@
 [
   {
-      "grouping":"Architecture",
-      "skills":[ "IP Networking","DNS","Firewalls","Load Balancing","Microservices","RESTful APIs","SaaS/PaaS/IaaS"]
-  },{
-      "grouping":"Languages, Operating Systems & Tools",
-      "skills":[ "Java","Python","git","subversion","linux","bash","php","jquery","javascript"]
+      "grouping":"Languages",
+      "skills":[ "C++","C","Python","Perl","ShellScript","'JavasScript","Awk"]
   },
   {
-      "grouping":"Platform Development & Administration",
-      "skills":[ "Atlassian","Bamboo","Bitbucket","NGINX","MySQL","Wordpress"]
+      "grouping":"Outils de développements",
+      "skills":[ "QtCreator","Eclipse","git","subversion","CMake","MakeFile","qmake","Valgrind","Doxygen"]
   },
   {
-      "grouping":"Data Management",
-      "skills":[
-        {"name":"Microsoft SQL Server","icon":"msql_server"},
-        {"name":"Oracle","icon":"database"},
-        "MongoDB",
-        {"name":"Apache Spark"}
-      ]
+      "grouping":"Librairies",
+      "skills":[ "Qt6","Boost","OpenGL","Podofo","Libavcodec","SDL","ImageMagick","OpenCV","Wt"]
   },
   {
-    "grouping":"Containers & Cloud",
-      "skills":[
-          {"name":"BOSH","link":"https://bosh.io"},
-          {"name":"Docker","link":"https://docker.com"},
-          {"name":"AWS","link":"https://aws.amazon.com"},
-          {"name":"Google Cloud","link":"https://cloud.google.com"},
-          {"name":"Linux","link":"https://bosh.io"}
-      ]
+      "grouping":"DataBases",
+      "skills":[ "SQlite","MySQL","Scid"]
+  },
+  {
+      "grouping":"Formats",
+      "skills":[ "JSON","HTML","CSS","LaTeX","Markdown"]
+  },
+  {
+      "grouping":"Outils graphiques, Vidéos et Sonores",
+      "skills":[ "Gimp","Inkscape","Graphviz","Ardour","KdeEnlive","PipeWire"]
+  },
+  {
+      "grouping":"Linux Embarqué",
+      "skills":[ "Yocto","Buildroot","Architecture Linux","Busybox","GPIO","DMX","QtEmbeded","CrossCompilation","Debugage croisé et inboard"]
   }
 ]
