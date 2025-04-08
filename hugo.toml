@@ -30,26 +30,21 @@ trackerID = "XX-123446-01"
 
 [[params.handles]]
     name = "LinkedIn"
-    link = "https://www.linkedin.com/in/edwardwebb/"
+    link = "https://www.linkedin.com/in/gilles-maire-38792771/"
 
 [[params.handles]]
     name = "GitHub"
-    link = "https://github.com/eddiewebb/"
+    link = "https://github.com/gillesmaire"
 
 [[params.handles]]
     name = "Keybase"
-    link = "https://keybase.io/edwardawebb"
+    link = "https://keybase.io/gillesmaire"
     icon = "keybase"
     
 [[params.handles]]
-    name = "Bluesky"
-    link = "https://bsky.app/profile/webbinaro.dev"
-    icon = "bluesky"
-
-[[params.handles]]
-    link = "https://stackoverflow.com/users/82880/eddie"
-    name = "Stack Overflow"
-    icon = "stack-overflow"
+    name = "Mastodon"
+    link = "https://mastodon.social/@GilesDesJetes"
+    icon = "mastodon"
 
 [outputs]
 home = ["HTML", "JSON"]
