@@ -18,7 +18,7 @@ profileImage = "img/GillesMaire.png"
 showQr = true
 showContact = true
 showBoards  = true
-showCertifications = true
+showCertifications = false
 showSocializations = true
 sections = ["skills","publications","creations","contributions","experience","education","blog"]
 
