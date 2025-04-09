@@ -1,7 +1,7 @@
 [
   {
       "grouping":"Languages",
-      "skills":[ "C++","C","Python","Perl","ShellScript","'JavasScript","Awk"]
+      "skills":[ "C++","C","Python","Perl","ShellScript","JavasScript","Awk"]
   },
   {
       "grouping":"Outils de développements",
@@ -16,15 +16,21 @@
       "skills":[ "SQlite","MySQL","Scid"]
   },
   {
+      "grouping":"Déploiement",
+      "skills":[ "InnoSetup","macdeployqt","Debhelper","Deploiement continu: CloudFare,NetLify"]
+  },
+
+  {
       "grouping":"Formats",
       "skills":[ "JSON","HTML","CSS","LaTeX","Markdown"]
   },
   {
-      "grouping":"Outils graphiques, Vidéos et Sonores",
-      "skills":[ "Gimp","Inkscape","Graphviz","Ardour","KdeEnlive","PipeWire"]
+      "grouping":"Linux Embarqué",
+      "skills":[ "Yocto","Buildroot","Architecture Linux","Busybox","GPIO","DMX","QtEmbeded","CrossCompilation","Uboot","Debugage croisé et inboard"]
   },
   {
-      "grouping":"Linux Embarqué",
-      "skills":[ "Yocto","Buildroot","Architecture Linux","Busybox","GPIO","DMX","QtEmbeded","CrossCompilation","Debugage croisé et inboard"]
+      "grouping":"Outils graphiques, Vidéos et Sonores",
+      "skills":[ "Gimp","Inkscape","Graphviz","Ardour","Audacity","KdeEnlive","PipeWire"]
+
   }
 ]

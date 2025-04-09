@@ -5,7 +5,8 @@ theme = "resume"
 PygmentsCodeFences = true
 PygmentsCodeFencesGuessSyntax = true
 PygmentsStyle = "monokai"
-enableGitInfo = false
+enableGitInfo = true
+defaultContentLanguage = 'fr'
 
 [params]
 address = "Paris, France"
@@ -17,7 +18,7 @@ phone = "+607-990-655"
 profileImage = "img/GillesMaire.png"
 showQr = true
 showContact = true
-showBoards  = true
+showBoards  = false
 showCertifications = false
 showSocializations = true
 sections = ["skills","publications","creations","contributions","experience","education","blog"]

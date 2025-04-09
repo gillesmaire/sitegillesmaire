@@ -1,20 +1,26 @@
 [
-    {
-        "role":"Boss man",
-        "company":"Current Company LTD",
-        "summary":"Led in development of fast paced software teams.\n- list\n- of\n- things",
-        "range":"February 2016 - Present"
-    },
-    {
-        "role":"Developer",
-        "company":"Current Company LTD",
-        "summary":"Expedited the synergies of collaborative agile tooling.",
-        "range":"March 2014 - February 2016"
-    },
-    {
-        "role":"Developer",
-        "company":"Previous Company Inc.",
-        "summary":"Implemented continuous devops pipelines automationing",
-        "range":"February 2013 - March 2014"
-    }
+  {
+  "role": "Gérant",
+  "company": "IGNU SARL",
+  "summary": "En 2006, après avoir découvert la bibliothèque Qt, j'ai développé — à partir du corpus lexical du laboratoire LORIA du CNRS — un dictionnaire de rimes en C++/Qt. Fort de cette compétence, j’ai été sollicité pour former les équipes de développement de l’opérateur Orange autour des set-top boxes utilisant Qt. Cette première intervention a donné naissance à une activité de formation, de conseil et d’expertise. J’ai ainsi fondé la société IGNU en 2007, centrée sur les technologies Linux et C++. Aujourd’hui, IGNU est spécialisée dans le développement Linux embarqué, le C++, le C, ainsi qu’un ensemble de bibliothèques open source. IGNU est également producteur d’œuvres musicales sous licences Creative Commons.",
+  "range": "2010 - Aujourd’hui"
+},
+{
+  "role": "Directeur",
+  "company": "UNGI SA",
+  "summary": "En 1997, j’ai fondé la société UNGI, initialement en partenariat avec Xerox, puis transformée en société anonyme (SA) en 2000. UNGI s’est spécialisée dans le développement de solutions logicielles Web, avec plusieurs projets notables :\n- Serveurs d’impression : développement de solutions de gestion de l’impression pour des environnements d’entreprise.\n- Systèmes de quizz : création de plateformes interactives de tests en ligne.\n- Systèmes de surveillance médicale : conception de solutions de télésurveillance pour établissements de santé.\n- Plateformes Web et messagerie unifiée : développement de services web et mail pour les anciens élèves de l’École Centrale et de HEC.\n- Gestion documentaire : conception d’un système de gestion documentaire pour le Conseil de l’Europe, facilitant l’indexation et le travail collaboratif.",
+  "range": "2000 - 2010"
+},
+{
+  "role": "Chef de projet puis chef de programme",
+  "company": "Xerox Paris",
+  "summary": "J’ai dirigé une équipe de développement et supervisé la mise en œuvre d’un serveur d’impression sur systèmes UNIX/SUN, en assurant la conception, le développement et l’intégration de l’infrastructure logicielle.",
+  "range": "1990 - 2000"
+},
+{
+  "role": "Développeur puis responsable logiciel",
+  "company": "ALSTOM Saint-Ouen",
+  "summary": "- Développement en C de systèmes de commande centralisée pour le TGV Atlantique.\n- Conception et développement en C des systèmes de gestion de la voie unique dans la vallée de la Tarentaise.\n- Spécification et conception de l’interface homme-machine (IHM) du poste de commande centralisé (PCC) du tunnel sous la Manche.",
+  "range": "1987 - 1990"
+}
 ]

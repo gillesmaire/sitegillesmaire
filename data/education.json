@@ -1,15 +1,14 @@
 [
-    {
-        "school":"[Rochester Institute of Technology](https://rit.edu)",
-        "degree":"Bachelor of Science",
-        "major":"Management Information Systems",
-        "notes":"Beta Gamma Signma, High Honors",
-        "range":"2006 - 2008"
-    },
-    {
-        "school":"Clinton Community College",
-        "degree":"Associate of Applied Science",
-        "major":"Computer Information Systems",
-        "range":"2004 - 2006"
-    }
+  {
+    "degree": "Maîtrise de Mathématiques",
+    "school": "Université Paul Sabatier, Toulouse",
+    "range": "1981 – 1984",
+    "notes": "J’ai suivi une formation universitaire en mathématiques fondamentales à Toulouse, qui m’a permis d’acquérir une solide base théorique, notamment en algèbre, analyse, topologie et logique mathématique. Cette formation m’a aussi donné le goût de la rigueur et de la modélisation formelle, compétences que j’ai utilisées tout au long de ma carrière."
+  },
+  {
+    "degree": "DESS de Mathématiques et Informatique",
+    "school": "Université de Pau et des Pays de l'Adour",
+    "range": "1984 – 1985",
+    "notes": "Ce diplôme, orienté vers l’application des mathématiques à l’informatique, m’a permis de me spécialiser dans les méthodes numériques, les langages de programmation et l’algorithmique. J’y ai découvert le langage C et les systèmes UNIX, qui sont devenus les fondations de mon parcours professionnel."
+  }
 ]
