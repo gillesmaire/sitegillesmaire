@@ -1,0 +1,14 @@
+.twocols {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 2rem;
+}
+@media (min-width: 768px) {
+  .twocols {
+    grid-template-columns: 1fr 1fr;
+  }
+}
+.column {
+  padding: 0 1rem;
+}
+

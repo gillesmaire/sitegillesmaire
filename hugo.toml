@@ -8,6 +8,12 @@ PygmentsStyle = "monokai"
 enableGitInfo = true
 defaultContentLanguage = 'fr'
 
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+
 [params]
 address = "Paris, France"
 email = "gilles@gillesmaire.com"
@@ -21,7 +27,7 @@ showContact = true
 showBoards  = false
 showCertifications = false
 showSocializations = true
-sections = ["skills","publications","creations","contributions","experience","education","blog"]
+sections = ["skills","experience","education","publications","creations","contributions","blog"]
 
 
 [params.google]

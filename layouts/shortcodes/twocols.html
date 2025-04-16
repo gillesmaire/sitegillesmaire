@@ -1,0 +1,27 @@
+{{ $parts := split .Inner "<!--col-->" }}
+<div class="twocols">
+  <div class="column">
+    {{ index $parts 0 | markdownify }}
+  </div>
+  {{ if gt (len $parts) 1 }}
+  <div class="column">
+    {{ index $parts 1 | markdownify }}
+  </div>
+  {{ end }}
+</div>
+
+<style>
+.twocols {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 2rem;
+}
+@media (min-width: 768px) {
+  .twocols {
+    grid-template-columns: 1fr 1fr;
+  }
+}
+.column {
+  padding: 0 1rem;
+}
+</style>

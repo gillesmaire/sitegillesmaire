@@ -9,15 +9,15 @@ outputs:
 - rss
 - json
 ---
-Depuis le début de ma carrière, je n'ai jamais cessé de travailler dans le développement C/C++ sous Unix, puis sous Linux.
 
-J'ai démarré dans les années 90 en tant que développeur, avant de devenir responsable logiciel C embarqué pour les commandes centralisées des TGV chez Alstom.
+Bonjour !
 
-Par la suite, j'ai rejoint Xerox, où j'ai passé sept ans à développer des serveurs d'impression sous Unix, en tant que chef de projets, puis chef de programme.
+Vous trouverez sur ce site mes compétences professionnelles, mes expériences, ainsi que les prestations que je propose à travers ma société IGNU.
 
-Après cette expérience, j'ai fondé UNGI SA, une société que j'ai dirigée pendant dix ans. UNGI se spécialisait dans le développement de logiciels pour serveurs Web Linux, avec toujours une forte composante technique.
+Installé à Paris et dans les Côtes-d'Armor, je peux intervenir pour des missions longues dans ces deux régions, ou pour des missions ponctuelles partout en France, pouvant aller de quelques heures à quelques jours. Je propose également des prestations à distance.
 
-Enfin, j'ai créé IGNU SARL, une société spécialisée dans le C++, Qt et Linux embarqué. J'y intervins principalement en tant que formateur et expert, apportant mon savoir-faire à diverses entreprises françaises.
+Mes domaines d'intervention vont de la formation et de l’assistance ponctuelle jusqu’à la réalisation de programmes informatiques, de sites Web, de productions musicales ou de montages vidéo.
 
-Je développe et maintiens également plusieurs logiciels open source depuis plus de vingt ans. Vous pourrez découvrir ces projets sur ce site.
+Rompu au développement Open Source, j’interviens aussi pour adapter des logiciels existants, ajouter des fonctionnalités, ou vous assister dans leur installation et configuration. Mes prestations ont donné lieu à des factures allant de quelques dizaines d’euros jusqu’à quelques dizaines de milliers d'euros.
 
+Vous trouverez dans les pages suivantes l’ensemble de mes domaines de compétence, une présentation des logiciels Open Source que j’ai développés et le catalogue des formations que je dispense.

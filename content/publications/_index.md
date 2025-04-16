@@ -1,18 +1,61 @@
 ---
-title: Publications
+title: Catalogue des formations
 date: 2020-01-07T16:47:30.077Z
 link: NA
-image: /img/organicdevops.webp
 description: NA
 weight: 10
 sitemap:
   priority: 0.6
   weight: 0.5
 ---
-<!--
 
-This page represents the landing page for "publications" section. It is also shown under the homepage header for "publications". It should be therefore relatively short and sweet.
+Voici la liste des formations informatiques que j'assure en présentiel ou en distanciel.
+N'hésitez pas à [composer une formation](composerformation) selons vos besoins
 
-\-->
+{{< twocols >}}
 
-A collection of articles, presentations or talks, most likely on Culture and DevOps, because let's admit it, they are one in the same ;)
+
+
+### Formations développeurs
+
+- [Algorithmique](formations/CommandesLinux.md)
+- [Développement sous Linux](formations/LinuxOrienteDeveloppement.md)
+- [Utilisation de Git](formations/GitLigneCommande.md)
+- [Formation ShellScript](formations/ShellScript.md)
+- [Formation C initiation](formations/CI.md)
+- [Formation C perfectionnement](formations/CII.md)
+- [Formation C++ initiation](formations/Cpp.md)
+- [Formation C++ perfectionnement](formations/C++11.md)
+- [Formation Qt/C++ initiation](formations/QtInitiation.md)
+- [Formation Qt/C++ perfectionnement](formations/QtAvance.md)
+- [Debuguer sous Linux](formations/LinuxDebuguer.md)
+- [Formation SQLite](formations/SQLite.md)
+- [Formation LUA](formations/LangageLUA.md)
+
+<!--col-->
+
+### Formations Linux
+
+
+- [Les commandes Linux](formations/CommandesLinux.md)
+- [Formation administration Debian](formations/LinuxAdministrationDebianI.md)
+- [Formation Linux embarqué via BuildRoot](formations/LinuxEmbarqueRaspberryPI.md)
+- [Formation Linux embarqué via Yocto](formations/Yocto.md)
+
+
+### Formations développeur graphisme
+
+- [Formation Graphviz](formations/GraphViz.md)
+- [Formation C++ PDF Podofo](formations/Podofo.md)
+- [Formation scheme pour Gimp](formations/SchemeGimp.md)
+- [Developper un site Hugo sans frais de d'hébergement](formations/Hugo.md)
+
+
+### Formations graphisme
+
+
+- [Formation Scribus](formations/Scribus.md)
+
+
+{{< /twocols >}}
+
