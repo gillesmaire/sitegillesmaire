@@ -1,6 +1,5 @@
 ---
 title: Catalogue des formations
-date: 2020-01-07T16:47:30.077Z
 link: NA
 description: NA
 weight: 10
@@ -18,43 +17,43 @@ N'hésitez pas à [composer une formation](composerformation) selons vos besoins
 
 ### Formations développeurs
 
-- [Algorithmique](formations/CommandesLinux.md)
-- [Développement sous Linux](formations/LinuxOrienteDeveloppement.md)
-- [Utilisation de Git](formations/GitLigneCommande.md)
-- [Formation ShellScript](formations/ShellScript.md)
-- [Formation C initiation](formations/CI.md)
-- [Formation C perfectionnement](formations/CII.md)
-- [Formation C++ initiation](formations/Cpp.md)
-- [Formation C++ perfectionnement](formations/C++11.md)
-- [Formation Qt/C++ initiation](formations/QtInitiation.md)
-- [Formation Qt/C++ perfectionnement](formations/QtAvance.md)
-- [Debuguer sous Linux](formations/LinuxDebuguer.md)
-- [Formation SQLite](formations/SQLite.md)
-- [Formation LUA](formations/LangageLUA.md)
+- [Algorithmique](publications/CommandesLinux.md)
+- [Développement sous Linux](publications/LinuxOrienteDeveloppement.md)
+- [Utilisation de Git](publications/GitLigneCommande.md)
+- [Formation ShellScript](publications/ShellScript.md)
+- [Formation C initiation](publications/CI.md)
+- [Formation C perfectionnement](publications/CII.md)
+- [Formation C++ initiation](publications/Cpp.md)
+- [Formation C++ perfectionnement](publications/C++11.md)
+- [Formation Qt/C++ initiation](publications/QtInitiation.md)
+- [Formation Qt/C++ perfectionnement](publications/QtAvance.md)
+- [Debuguer sous Linux](publications/LinuxDebuguer.md)
+- [Formation SQLite](publications/SQLite.md)
+- [Formation LUA](publications/LangageLUA.md)
 
 <!--col-->
 
 ### Formations Linux
 
 
-- [Les commandes Linux](formations/CommandesLinux.md)
-- [Formation administration Debian](formations/LinuxAdministrationDebianI.md)
-- [Formation Linux embarqué via BuildRoot](formations/LinuxEmbarqueRaspberryPI.md)
-- [Formation Linux embarqué via Yocto](formations/Yocto.md)
+- [Les commandes Linux](publications/CommandesLinux.md)
+- [Formation administration Debian](publications/LinuxAdministrationDebianI.md)
+- [Formation Linux embarqué via BuildRoot](publications/LinuxEmbarqueRaspberryPI.md)
+- [Formation Linux embarqué via Yocto](publications/Yocto)
 
 
 ### Formations développeur graphisme
 
-- [Formation Graphviz](formations/GraphViz.md)
-- [Formation C++ PDF Podofo](formations/Podofo.md)
-- [Formation scheme pour Gimp](formations/SchemeGimp.md)
-- [Developper un site Hugo sans frais de d'hébergement](formations/Hugo.md)
+- [Formation Graphviz](publications/GraphViz.md)
+- [Formation C++ PDF Podofo](publications/Podofo.md)
+- [Formation scheme pour Gimp](publications/SchemeGimp.md)
+- [Developper un site Hugo sans frais de d'hébergement](publications/Hugo.md)
 
 
 ### Formations graphisme
 
 
-- [Formation Scribus](formations/Scribus.md)
+- [Formation Scribus](publications/Scribus.md)
 
 
 {{< /twocols >}}
