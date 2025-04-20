@@ -3,12 +3,10 @@ title: "Les commandes Linux"
 date: 2025-04-20
 pubtype: "Formation"
 description: "Connaître les commandes linux, le shell, la configuration de bash et connaître les grands utilitaires sed ainsi que les commandes pipe. "
-tags: ["shell","man","pipe","variables shell","sed"]
+tags: ["linux","shell","man","pipe","variables shell","sed"]
 weight: 100
 duration: 3 jours
 ---
-
-### CommandesLinux
 
 #### Description
 
@@ -40,7 +38,7 @@ Connaître les commandes linux, le shell, la configuration de bash et connaître
 
 - Pc sous Linux Debian ou autre distribution
 
-#### Programme
+## Programme
 
 
 ### Journée 1
@@ -240,7 +238,7 @@ Connaître les commandes linux, le shell, la configuration de bash et connaître
         - Exemples sur les chaînes
 
 
-## Exercices
+### Exercices
 
 - Découvertes des fichiers d'information système
 - Variables par shell

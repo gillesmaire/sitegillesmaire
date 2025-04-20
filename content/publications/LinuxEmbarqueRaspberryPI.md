@@ -1,14 +1,12 @@
 ---
-title: "Linux embarqué sur processeur ARM avec buildroot"
+title: "Linux embarqué sur processeur ARM"
 date: 2025-04-20
 pubtype: "Formation"
 description: "Apprendre à installer une distribution Linux et des développements en compilation croisée sur un équipement ARM au moyen de Buildroot"
-tags: ["busybox","buildroot","compilation croisée","qemu"]
+tags: ["linux","busybox","buildroot","compilation croisée","qemu"]
 weight: 1000
 duration: 4 jours
 ---
-
-### LinuxEmbarqueRaspberryPI
 
 #### Description
 
@@ -48,7 +46,7 @@ Apprendre à installer une distribution Linux et des développements en compilat
     - un clavier USB supplémentaire
     - un cable Ethernet connectable avec la box Internet 
 
-#### Programme
+## Programme
 
 
 ### Journée 1 
@@ -271,7 +269,7 @@ Apprendre à installer une distribution Linux et des développements en compilat
         - Mise en oeuvre sur Eclipse
 
 
-## Exercices
+### Exercices
 
 - Récupérer les sources du jeu Extrême Tux Racer Pro et le compiler
 - Construction de la librairie glibc

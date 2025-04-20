@@ -3,12 +3,10 @@ title: "Linux embarqué sur processeur ARM avec yocto"
 date: 2025-04-20
 pubtype: "Formation"
 description: "Apprendre à installer une distribution Linux et des développements en compilation croisée sur un équipement ARM au moyen de Yocto"
-tags: ["Yocto","busybox","compilation croisée"]
-weight: 0
+tags: ["linux","yocto","busybox","compilation croisée"]
+weight: 1010
 duration: 4 jours
 ---
-
-### Yocto
 
 #### Description
 
@@ -39,7 +37,7 @@ CMakeFile
 - 1 kit RapberryPI + Clavier et écran supplémentaire
 - Cable Ethernet
 
-#### Programme
+## Programme
 
 
 ### Journée 1 
@@ -100,10 +98,6 @@ CMakeFile
         - Flashage de la carte
         - Remarque sur cette première installation
         - Éléments de vocabulaire
-
-### Journée 2 
-
-
     -  Sélection de paquets
         - Paquets virtuels
         - Versions de paquets
@@ -202,7 +196,7 @@ CMakeFile
         - Commandes devtool
 
 
-## Exercices
+### Exercices
 
 - Fabrication d'une image qemu
 - Prise en main de la machine ARM en qemu
