@@ -15,7 +15,11 @@
       </li>
       {{ range .Site.Params.sections }}
       <li class="nav-item">
-        <a class="nav-link js-scroll-trigger" href="/#{{.}}">{{ . | i18n }}</a>
+       {{ if eq . "publications" }}
+          <a class="nav-link" href="/publications/">{{ . | i18n }}</a>
+      {{ else }}
+          <a class="nav-link js-scroll-trigger" href="/#{{.}}">{{ . | i18n }}</a>
+    {{ end }}
       </li>
       {{ end }}
       {{ if .Site.Params.showContact}}
