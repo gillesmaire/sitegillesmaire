@@ -1,4 +1,4 @@
-baseURL = "https://www.gillesmaire.com"
+baseURL = "https://sitegillesmaire.pages.dev/"
 languageCode = "fr-FR"
 title = "Gilles Maire Dev + Teaching"
 theme = "hugo-resume"
