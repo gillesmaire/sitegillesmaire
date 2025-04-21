@@ -24,11 +24,18 @@
             {{ range .Site.Params.handles }}
                 <li class="list-inline-item">
                   <a href="{{ .link }}" data-toggle="tooltip" title="{{ .name }}" data-offset="0,10" rel="me">
+		     {{ if eq .name "SourceForge" }}
+                     <span class="fa-stack fa-lg" style="position: relative">
+                     <i class="fa fa-circle fa-stack-2x"></i>
+                    <img src="/img/sourceforge.svg" alt="SourceForge" width="32" height="32" style="position: absolute; top: 50%; left: 50%; transform : translate(-50%,-50%);border-radius: 50%;">
+                    </span>
+                     {{ else }}
                     <span class="fa-stack fa-lg">
                       <i class="fa fa-circle fa-stack-2x"></i>
                       <i class="fab {{ if .icon}}fa-{{ .icon }}{{ else }}fa-{{ lower .name }}{{ end }} fa-stack-1x fa-inverse"></i>
                     </span>
                   </a>
+		  {{ end }}
                 </li>
             {{ end }}
           </ul>

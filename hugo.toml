@@ -44,6 +44,11 @@ trackerID = "XX-123446-01"
     link = "https://github.com/gillesmaire"
 
 [[params.handles]]
+    name="SourceForge"
+    link="https://sourceforge.net/u/gillesm/profile"
+    clas="sourceforge"
+
+[[params.handles]]
     name = "Keybase"
     link = "https://keybase.io/gillesmaire"
     icon = "keybase"

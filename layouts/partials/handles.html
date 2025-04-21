@@ -1,0 +1,12 @@
+<div class="social-icons">
+  {{ range .Site.Params.handles }}
+    <a href="{{ .link }}" target="_blank" rel="noopener noreferrer" title="{{ .name }}">
+      {{ if eq .icon "sourceforge" }}
+        <img src="/img/sourceforge.svg" alt="SourceForge" style="width:32px; height:32px; border-radius: 50%;">
+      {{ else }}
+        <i class="fab fa-{{ lower .icon }}"></i>
+      {{ end }}
+    </a>
+  {{ end }}
+</div>
+<p>DEBUG HANDLE: {{ .name }} / {{ .icon }}</p>

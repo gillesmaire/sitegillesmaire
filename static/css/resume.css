@@ -153,4 +153,14 @@ a {
 
 a:hover, a:focus, a:active {
   color: #824027;
-}
+
+.social-icon.sourceforge {
+    background-image: url("/img/sourceforge.svg");
+    background-size: contain; 
+    width: 32px;
+    height: 32px; 
+    border-radius: 50%; 
+    display: inline-block; 
+    background-position: center; 
+    background-color:transparent;
+}}
