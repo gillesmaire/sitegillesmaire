@@ -1,7 +1,7 @@
 baseURL = "https://www.gillesmaire.com"
 languageCode = "fr-FR"
 title = "Gilles Maire Dev + Teaching"
-theme = "resume"
+theme = "hugo-resume"
 PygmentsCodeFences = true
 PygmentsCodeFencesGuessSyntax = true
 PygmentsStyle = "monokai"
