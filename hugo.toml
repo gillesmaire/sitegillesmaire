@@ -15,12 +15,12 @@ defaultContentLanguage = 'fr'
 
 
 [params]
-address = "Paris, France"
+address = "Paris, France 68, rue Leibniz SIRET: 50072904100011"
 email = "gilles@gillesmaire.com"
 favicon = "/favicon.ico"
 firstName = "Gilles"
 lastName = "Maire"
-phone = "+607-990-655"
+phone = "+33 607-990-655"
 profileImage = "img/GillesMaire.png"
 showQr = true
 showContact = true
