@@ -58,3 +58,9 @@ home = ["HTML", "JSON"]
 
 [taxonomies]
 tag = "tags"
+
+
+[outputFormats]
+  [outputFormats.CSS]
+    mediaType = "text/css"
+
