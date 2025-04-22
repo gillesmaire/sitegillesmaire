@@ -10,5 +10,5 @@ sitemap:
 ---
 
 Voici la liste des formations informatiques que j'assure en présentiel ou en distanciel.
-N'hésitez pas à [composer une formation](composerformation) selons vos besoins
+Pour plus de détails pour les [modalités](modalites) selons vos besoins
 

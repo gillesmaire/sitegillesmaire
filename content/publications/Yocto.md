@@ -1,6 +1,6 @@
 ---
 title: "Linux embarqué sur processeur ARM avec yocto"
-date: 2025-04-21
+date: 2025-04-22
 pubtype: "Formation"
 description: "Apprendre à installer une distribution Linux et des développements en compilation croisée sur un équipement ARM au moyen de Yocto"
 tags: ["linux","yocto","busybox","compilation croisée","recettes"]
