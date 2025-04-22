@@ -1,48 +1,40 @@
 {
   "title": "chordV",
   "date": "2018-02-11T12:41:05-05:00",
-  "image": "/img/dictionnaire1.png",
-  "link": "https://sourceforge.net/projects/dicorime/",
-  "description": "Dictionnaire de la langue française, des rimes, des allitérations, des citations ",
-  "tags": ["dictionnaire","synonymes","expressions","citations","allitérations","phonémisation","étymologie"],
+  "image": "/img/chord1.png",
+  "link": "https://sourceforge.net/projects/chordV/",
+  "description": "Logiciel de conception de livrets de chansons dans différents formats.",
+  "tags": ["chord","editeur","livrets textes","livrets textes accords","livrets accords"],
   "fact": "",
   "featured":true
 }
 
-QDictionnaire <em>est un dictionnaire de la langue française</em> qui inclut un éditeur de texte et de  nombreuses autres  fonctionnalités.
+ChordV <em>est un éditeur qui permet</em> de produire des livrets de chansons en différents formats
 
-![QDictionnaire](/img/dictionnaire1.png)
+Vous définissez vos accords de façon précise et pouvez 
+les gérer par des noms différents en fonction de leur position sur le manche.
 
-Il fournit plusieurs corpus :
-  - des mots rares
-  - les prénoms francophones
-  - les noms des villes françaises
-  - les mots usuels
+![chordV](/img/chord2.png)
 
-Il fournit une base de données
-  - de rimes
-  - de citations
-  - de synonymes
-  - d'expressions
-  - d'étymologie
-  - les anagrammes
-  - les antonymes
-  - des mots dérivés
-  - la traduction phonétique des mots
-  - des Cgram
-  - des genres
-  - de statistiques sur la fréquence des mots
-  - les conjugaisons des verbes qui s'affiche si le mot cherché est un verbe
+Dans l'éditeur vous pouvez les inclure avec des outils
+d'aide à la transposition et à l'édition.
 
-La base de données de presque 400 Mo  contenant  un corpus de
-  - 386 455 mots
-  - 38075 citations
-  - 387 764 définitions
+![chordV](/img/chord1.png)
 
 
-Il contient un éditeur permettant d'écrire poèmes et chansons sans quitter le logiciel. Il construit étalement des phrases oulipiennes.
+Vous pouvez définir les formats de sorties des livrets 
+dans l'un des modes : 
 
-Je maintiens les sources de ce logiciel depuis 2005, en version Qt3, 4, 5 et 6 mais je n'ai malheureusement plus le temps de mettre à jour les installeurs.
+- Accords pour guitariste 
+- Paroles uniquement pours les non musiciens
+- Paroles et accords. Dans ce mode vous pouvez choisir 
+entre les accords format guitare ou format nommés. 
+
+
+Vous pouvez voir des exemples de tous les rendus en vous 
+rendant sur la page des livrets du groupe [les jetés de l'encre](https://lesjetesdelencre.com/lire/livrets/) 
+
+Je maintiens les sources de ce logiciel depuis 2015, en version Qt6 mais je n'ai malheureusement plus le temps de mettre à jour les installeurs.
 
 Si vous êtes intéressés par cette activité qui n'est pas très compliquée mais demande de l'attention je serais ravis de vous initier.
 Il existe des distributions Linux incluant le dictionnaire, mais je suis pas ces informations de très près.
