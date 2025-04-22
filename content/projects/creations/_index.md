@@ -1,8 +1,8 @@
 ---
-title: Creations
+title: Mes développements Open Source
 date: 2020-01-07T15:00:28.528Z
 link: Not applicable
-image: /img/marketplace-summary.webp
+image:
 description: Not applicable
 weight: 10
 sitemap:
@@ -17,4 +17,9 @@ This page represents the landing page for "creations" section. It is also shown 
 
 
 
-<p>A collection of projects authored by Eddie, and likely shared out with the community as an open source project.</p>
+<p>Voici les logiciels que j'ai développé en open source et que vous trouverez dans certaines distributions Linux. Je présente ici mes logiciels développés en C++/Qt
+qui peuvent être installés sous Windows, Linux, Android ou MacOSX. Je ne présente pas non plus ici les logiciels en cours de développements.</p>
+
+<p>Je ne propose pas ici les installeurs que vous pourrez retrouver sur les pages sourceforge ou Github en fonction des projets.</p>
+
+
