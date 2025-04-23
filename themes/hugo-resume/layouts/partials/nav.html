@@ -17,6 +17,8 @@
       <li class="nav-item">
        {{ if eq . "publications" }}
           <a class="nav-link" href="/publications/">{{ . | i18n }}</a>
+       {{ else if eq . "blog" }}
+          <a class="nav-link" href="/blog/">{{ . | i18n }}</a>
       {{ else }}
           <a class="nav-link js-scroll-trigger" href="/#{{.}}">{{ . | i18n }}</a>
     {{ end }}

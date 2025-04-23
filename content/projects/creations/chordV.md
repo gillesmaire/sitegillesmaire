@@ -1,6 +1,6 @@
 {
-  "title": "chordV",
-  "date": "2018-02-11T12:41:05-05:00",
+  "title": "ChordV",
+  "date": "2025-04-22",
   "image": "/img/chord1.png",
   "link": "https://sourceforge.net/projects/chordV/",
   "description": "Logiciel de conception de livrets de chansons dans différents formats.",

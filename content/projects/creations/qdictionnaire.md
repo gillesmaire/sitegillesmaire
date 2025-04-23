@@ -1,6 +1,6 @@
 {
   "title": "QDictionnaire",
-  "date": "2018-02-11T12:41:05-05:00",
+  "date": "2025-04-21",
   "image": "/img/dictionnaire1.png",
   "link": "https://sourceforge.net/projects/dicorime/",
   "description": "Dictionnaire de la langue française, des rimes, des allitérations, des citations ",
