@@ -46,9 +46,9 @@ Le Shell Script se lance ainsi :
 ./velib.sh 18034
 ~~~
 
-Vous pouvez développer aussi en Python, en C++/Qt ou en Go un programme analogue qui affiche en permanence le nombre de velos
+Vous pouvez développer aussi en Python, en C++/Qt ou en Go un programme analogue qui affiche en permanence le nombre de vélos
 disponibles dans la borne la plus proche de chez vous.
 
-Cet exemple sur les vélib peut être généralisé à des millions de jeux de données collectées en permanence.
+Cet exemple peut être généralisé à des millions de jeux de données collectées en permanence à travers le monde.
 
 
