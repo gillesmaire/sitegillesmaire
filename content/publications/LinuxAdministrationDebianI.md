@@ -1,6 +1,6 @@
 ---
 title: "Linux Administration Debian"
-date: 2025-04-22
+date: 2025-05-22
 pubtype: "Formation"
 description: "- Administrer un équipement fonctionnant sous Linux Debian
 - Connaître les premiers services utilisées sous Debian"

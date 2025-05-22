@@ -1,6 +1,6 @@
 ---
 title: "Shell Script"
-date: 2025-04-22
+date: 2025-05-22
 pubtype: "Formation"
 description: "- Savoir développer des ShellScript (sh et bash) sous Linux
 - Savoir maintenir des Shell Script système Linux"

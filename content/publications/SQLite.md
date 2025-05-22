@@ -1,6 +1,6 @@
 ---
 title: "SQLite"
-date: 2025-04-22
+date: 2025-05-22
 pubtype: "Formation"
 description: "- Apprendre à développer avec SQLite
 - Savoir gérer une base SQLite

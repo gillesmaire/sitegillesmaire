@@ -1,6 +1,6 @@
 ---
 title: "Git en ligne de commandes"
-date: 2025-04-22
+date: 2025-05-22
 pubtype: "Formation"
 description: "- Savoir utiliser Git en développement au moyen des lignes
 de commandes ou des outils disponibles dans QtCreator.

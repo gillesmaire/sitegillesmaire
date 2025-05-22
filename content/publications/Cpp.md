@@ -1,6 +1,6 @@
 ---
 title: "C++ Les notions de base du C++ jusqu'au C++11"
-date: 2025-04-22
+date: 2025-05-22
 pubtype: "Formation"
 description: "- Savoir développer en C++ dans ses versions modernes."
 tags: ["C++","Compilation","STL","C++11","Templates","Virtualité","Héritage"]

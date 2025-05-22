@@ -1,6 +1,6 @@
 ---
 title: "Initiation à Qt"
-date: 2025-04-22
+date: 2025-05-22
 pubtype: "Formation"
 description: "- Savoir développer une application en C++ via la librairie Qt6
 - Connaître les différents types définis par Qt6

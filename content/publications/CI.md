@@ -1,6 +1,6 @@
 ---
 title: "C Initiation"
-date: 2025-04-22
+date: 2025-05-22
 pubtype: "Formation"
 description: "-  Savoir développer en langage C. L'IDE par défaut est
 QtCreator"

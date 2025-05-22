@@ -1,6 +1,6 @@
 ---
 title: "C Perfectionnement"
-date: 2025-04-22
+date: 2025-05-22
 pubtype: "Formation"
 description: "- Connaître les aspects avancés du langage C tels que 
 l'utilisation des pointeurs, la gestion de la mémoire, les fonctions, le développement de listes chaînées, la gestion

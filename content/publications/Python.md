@@ -1,6 +1,6 @@
 ---
 title: "Python"
-date: 2025-04-22
+date: 2025-05-22
 pubtype: "Formation"
 description: "Savoir développer et débuguer des Script Python"
 tags: ["Python","Language"]
