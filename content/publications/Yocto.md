@@ -63,7 +63,6 @@ CMakeFile
     -  Recette CMake
     -  Débugage 
     -  Création d'autres recettes
-    -  Debugage des recettes
 
 ### Journée 3
 
