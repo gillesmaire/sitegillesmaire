@@ -1,6 +1,6 @@
 ---
 title: "Debuguer sous Linux"
-date: 2025-05-22
+date: 2025-10-30
 pubtype: "Formation"
 description: "- Savoir débuguer ou analyser le comportement erratique d'un programme sous équipement Linux"
 tags: ["Linux","Debug","C","C++"]

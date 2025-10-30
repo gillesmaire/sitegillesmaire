@@ -1,6 +1,6 @@
 ---
 title: "Documentation programmes C C++"
-date: 2025-05-22
+date: 2025-10-30
 pubtype: "Formation"
 description: "- Savoir insttaller et utiliser Doxygen
 - Utiliser des commentaires étendus

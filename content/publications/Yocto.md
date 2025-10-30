@@ -1,6 +1,6 @@
 ---
 title: "Linux embarqué sur processeur ARM avec yocto"
-date: 2025-05-22
+date: 2025-10-30
 pubtype: "Formation"
 description: "Apprendre à installer une distribution Linux et des développements en compilation croisée sur un équipement ARM au moyen de Yocto"
 tags: ["linux","yocto","busybox","compilation croisée","recettes"]
@@ -56,11 +56,14 @@ CMakeFile
 
 
 -  Fabriquer des recettes
-    -  Utilisation de recettes
-    -  Code dans les recettes
-    -  Héritage d'une classe
-    -  Création d'une recette CMake
+    -  Découverte d'une première recette
+    -  Comprendre les recettes
+    -  Recette d'affichage de variables
+    -  Recette de création d'utilisateurs 
+    -  Recette CMake
+    -  Débugage 
     -  Création d'autres recettes
+    -  Debugage des recettes
 
 ### Journée 3
 
@@ -69,18 +72,6 @@ CMakeFile
     -  Configuration 
     -  Les tâches
     -  Rappel des commandes yocto
-
-
-### Exercices
-
-- Fabrication d'une image qemu
-- Prise en main de la machine ARM en qemu
-- Localiser le répertoire générant busybox avant son installation
-- Récupérer et installer l'image sur une carte SD pour en vérifier le bon fonctionnement sur la Raspberry
-- Choisir une recette extérieure et l'installer sur en qemu et/ou sur votre carte
-- EAjouter un utilisateur avec mot de passe sur le device
-- Sur les opérateurs
-- Ajouter  une programme C dans votre device
 
 
 

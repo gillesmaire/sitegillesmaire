@@ -1,36 +1,32 @@
 ---
-title: "PySide"
-date: 2025-05-22
+title: "Linux embarqué sur processeur ARM avec yocto"
+date: 2025-10-30
 pubtype: "Formation"
-description: "- Connaître les différences entre PyQt6 et PySide6
-- Savoir mettre en œuvre une IHM complexe
-- Comprendre l'architecture MVC de Qt
-- Savoir utiliser les outils offerts par PySide6 (QtDesigner, pyside_uic,...)"
-tags: ["Python","Qt","MVC","MatplotLib"]
-weight: 26
+description: "Apprendre à installer une distribution Linux et des développements en compilation croisée sur un équipement ARM au moyen de Yocto"
+tags: ["linux","yocto","busybox","compilation croisée","recettes"]
+weight: 1010
 duration: 3 jours
 ---
 
 #### Description
 
-- Cette formation présente la librairie PySide6 : celle-ci permet de mettre en œuvre des interfaces graphiques via le langage Python en s'appuyant sur Qt.
-
+Apprendre à se servir de Yocto pour automatiser la production d'une carte Linux embarqué et apprendre
+à réaliser des recettes métier.
 
 #### Objectifs
 
-- Connaître les différences entre PyQt6 et PySide6
-- Savoir mettre en œuvre une IHM complexe
-- Comprendre l'architecture MVC de Qt
-- Savoir utiliser les outils offerts par PySide6 (QtDesigner, pyside_uic,...)
+Apprendre à installer une distribution Linux et des développements en compilation croisée sur un équipement ARM au moyen de Yocto
 
 #### Public
 
-- Développeurs Python connaissant les notions de programmation orientée objet dans Python
+- Administrateurs Linux
+- Developpeurs Linux
 
 #### Prérequis
 
-- Python 3
-- Instrallation de modules Pyhton
+C
+Shell
+CMakeFile
 
 #### Durée
 
@@ -38,8 +34,9 @@ duration: 3 jours
 
 #### Moyens techniques 
 
-PC sous Windows ou Linux 
-Mac sous MacOSX
+- Pentium 7  32 Go de RAM 300Go de Disque
+- 1 kit RapberryPI + Clavier et écran supplémentaire
+- Cable Ethernet
 
 ## Programme
 

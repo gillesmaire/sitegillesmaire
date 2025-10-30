@@ -1,6 +1,6 @@
 ---
 title: "Qt Les fonctionnalités avancées"
-date: 2025-05-22
+date: 2025-10-30
 pubtype: "Formation"
 description: "- Connaître des fonctionnalités avancées et complexes de la librairie C++/Qt6"
 tags: ["Qt","C++","QtCreator"]

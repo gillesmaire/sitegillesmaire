@@ -1,6 +1,6 @@
 ---
 title: "Les commandes Linux"
-date: 2025-05-22
+date: 2025-10-30
 pubtype: "Formation"
 description: "Connaître les commandes linux, le shell, la configuration de bash et les principaux utilitaires  ainsi que les commandes pipe. "
 tags: ["linux","shell","man","pipe","variables shell","sed"]

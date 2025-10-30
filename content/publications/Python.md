@@ -1,6 +1,6 @@
 ---
 title: "Python"
-date: 2025-05-22
+date: 2025-10-30
 pubtype: "Formation"
 description: "Savoir développer et débuguer des Script Python"
 tags: ["Python","Language"]
@@ -39,6 +39,7 @@ PC sous Linux
 
 
 -   Initiation
+    -  Installation de Python 
     -  Présentation
     -  Les fonctions Python
     -   Les chaînes de caractères

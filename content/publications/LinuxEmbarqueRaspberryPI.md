@@ -1,6 +1,6 @@
 ---
 title: "Linux embarqué sur processeur ARM avec BuildRoot"
-date: 2025-05-22
+date: 2025-10-30
 pubtype: "Formation"
 description: "Apprendre à installer une distribution Linux et des développements en compilation croisée sur un équipement ARM au moyen de Buildroot"
 tags: ["linux","busybox","buildroot","compilation croisée","qemu"]
@@ -56,7 +56,7 @@ Apprendre à installer une distribution Linux et des développements en compilat
     -  Architecture
     -  Init et démons 
     -  Init et shell 
--  Licences 
+-   Distributions et  Licences 
     -  Les distributions 
     -  Les licences 
     -  Différences entre les licences
@@ -64,16 +64,16 @@ Apprendre à installer une distribution Linux et des développements en compilat
     -  Compilation des sources
     -  Les librairies 
     -  La librairie libc
-
-### Journée 2
-
-
 -  Le noyau
     -  Présentation 
     -  Configuration 
     -  Options de compilation 
 -  Busybox 
     -  Busybox 
+
+### Journée 2
+
+
 -  Raspberry
     -  Architecture ARM
     -  Présentation de la carte 
@@ -81,16 +81,12 @@ Apprendre à installer une distribution Linux et des développements en compilat
 -  Compilation croisée
     -  Présentation 
     -  Compilation du compilateur
-
-### Journée 3 
-
-
 -  Buildroot
     -  Présentation
     -  Utilisation
     -  Installation de la distribution
 
-### Journée 4 
+### Journée 3
 
 
 -  Customisation
