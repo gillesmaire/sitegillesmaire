@@ -66,17 +66,43 @@ Le témoin DRUMS BAND est le témoin situé entre les deux boutons du même nom.
    - L'exemple précédent montrait comment on pouvait enregistrer des boucles, mais il existe un moyen plus direct 
    - Une fois la rythmique enregistrée, il suffit d'appuyer sur LOOPER qui se mettra à clignoter pendant la lecture basse rythmique, on peut jouer les accords et dès que le voyant deviendra fixe l'enregistrement sera effectif.
    
+
+### Les parties
+
+   - Les parties sont des variantes à l'intérieur d'une chanson, elles sont en haut du boitier sous l'appelation PART
+   - Par défaut toute la chanson est identique est elle est enregistrée  sous le bouton PART numéro 1 
+   - Pour enregistrer par exemple la variante numéro 2 on appuie sur le bouton PART 2. 
+       - Si on maintient le bouton appuyé le boiier va battre la rythmique à l'identique
+       - On peut modififier GENRE et le STYLE sur la partie 2
+       - Lorsqu'on joue une partie, on peut appuyer sur le voyant PART 2 pour entendre le tempo pendant la première passse de l'enregistrement de la rythmique
+   - On peut ensuite sélectionner pour chaque partie le nombre de fois où elle est jouée :
+       - On appuie sur le voyant PART 2 une fois pour indiquer qu'on joue une fois la partie, ou deux fois si on la joue deux fois.
+   - Si on appuie un nouvelle fois sur un voyant PART il deviendra rouge et gonflera les sections rythmique et accord
+   
 ### Gestions des morceaux 
 
    - En cliquant sur le bouton  SONG sous le bouton STYLE les crans du bouton STYLE deviennent rouge permettant de sélectionner un des 12 morceaux que l'on a enregistré
    - On peut tourner le bouton STYLE pour sélectionner la chanson souhaitée et appuyer sur le bouton BAND pour l'écouter
-        - Lors de cette écoute on peut équiliber les trois pistes guitare, basse et rythmique respectivement par les boutons LOOP, BASS et DRUMS
+      - Lors de cette écoute on peut équiliber les trois pistes guitare, basse et rythmique respectivement par les boutons LOOP, BASS et DRUMS
    - On peut supprimer la chanson en laissant le bouton SONG appuyé
    - Les 12 chansons sont sauvegardées   sur carte Micro SD, on peut changer la carte afin d'enregistrer 12 autres chansons sur cette nouvelle carte.
    - Pour gérer toutes vos chansons et vos boucles sur un ordinateur, on peut télécharger le logiciel gratuit TRIO Manager sur digitech.com, disponible pour Windows et Mac.
+  
+### Les séquences
+
+  - Pour naviguer entre les séquences : 
+      - On peut appuyer sur le bouton BEND longtemps afin de passer sur la séquence suivante
+      - On peut également programmer le nombre de fois où l'on veut jouer une séquence et dans quel ordre en appuyant sur le voyant SEQ puis on appuie une fois sur le voyant 1 pour une boucle, ensuite on peut appuiyer deux fois le voyant 2 pour indiquer deux fois sur la parte 2
    
    
-   
+### Modification du TEMPO  et GUITARFX
+
+   - On peut modifier le tempo d'une boucle en modifiant le tempo par le Bouton manuel TEMPO +
+   - On peut ajouter des effets en appuyant sur le voyant GUITARFX avec :
+      - Un son de base en mode vert pour le son de base, un son avec distortion sur le voyant est en rouge. 
+      - Cette distortion n'est pas très convaincante
+      
+      
    
    
    
