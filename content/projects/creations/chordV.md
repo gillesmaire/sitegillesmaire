@@ -31,6 +31,12 @@ dans l'un des modes :
 entre les accords format guitare ou format nommés. 
 
 
+Chord V permet les conversions des chansons dans les formats suivants : 
+
+- markdown avec table des matières prête à l'emploi pour l'outil de fabrication de site Hugo
+- l'exportation des grilles d'accord pour JJazzLab
+
+
 Vous pouvez voir des exemples de tous les rendus en vous 
 rendant sur la page des livrets du groupe [les jetés de l'encre](https://lesjetesdelencre.com/lire/livrets/) 
 
