@@ -34,7 +34,7 @@ entre les accords format guitare ou format nommés.
 Chord V permet les conversions des chansons dans les formats suivants : 
 
 - markdown avec table des matières prête à l'emploi pour l'outil de fabrication de site Hugo
-- l'exportation des grilles d'accord pour JJazzLab
+- l'exportation des grilles d'accord pour  l'importation dans JJazzLab
 
 
 Vous pouvez voir des exemples de tous les rendus en vous 
